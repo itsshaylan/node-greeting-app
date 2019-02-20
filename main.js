@@ -13,5 +13,5 @@ greetings.greetingSpanish();
 // "Halló"
 greetings.greetingIcelandic();
 
-// "Halló"
+// "Bunnies"
 animals.favoriteAnimal();
